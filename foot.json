@@ -1,0 +1,14 @@
+{
+		"footA":[
+			{"Date":"8 July", "Time":"12:00AM", "Mon-Fri":"Sunday", "Team":"Sweden VS England", "Round":"Quarter-finals"},
+			{"Date":"8 July", "Time":"4:00AM", "Mon-Fri":"Sunday", "Team":"Russia VS Croatia", "Round":"Quarter-finals"},
+			{"Date":"7 July", "Time":"12:00AM", "Mon-Fri":"Saturday", "Team":"Uruguay VS France", "Round":"Quarter-finals"},
+			{"Date":"7 July", "Time":"4:00AM", "Mon-Fri":"Saturday", "Team":"Brail VS Belgium", "Round":"Quarter-finals"}
+		],
+		"footB":[
+			{"Date":"11 July", "Time":"4:00AM", "Mon-Fri":"Wednesday", "Team":"France VS Belgium", "Round":"Semi-finals"},
+			{"Date":"12 July", "Time":"4:00AM", "Mon-Fri":"Thursday", "Team":"TBD VS TBD", "Round":"Semi-finals"}
+		]
+	
+
+} 

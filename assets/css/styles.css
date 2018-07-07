@@ -1,0 +1,66 @@
+.row-striped:nth-of-type(odd) {
+	background-color:#efefef;
+	border-left:10px #cd3333 solid;
+}
+
+.row-striped:nth-of-type(even) {
+	background-color:#ffffff;
+	border-left:15px #efefef solid;
+}
+
+.row-striped {
+	padding:15px 0;
+	margin-top:15px;
+}
+
+.date-green {
+	background-color:#cd3333;
+}
+
+.badge-grey {
+	background-color:#efefef;
+}
+
+div.jumbotron.carousel-hero {
+	color:#fff;
+	text-align:center;
+	background-size:cover;
+	background-position:center;
+	padding-top:100px;
+	padding-bottom:100px;
+	margin-bottom:0;
+}
+
+div.jumbotron.hero-nature {
+	background-image:url('../../assets/img/foot1.jpg');
+	background-image:url('../../assets/img/foot1.jpg');
+}
+
+div.jumbotron.hero-photography {
+	background-image:url('../../assets/img/foot2.jpeg');
+}
+
+div.jumbotron.hero-technology {
+	background-image:url('../../assets/img/foot3.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+	text-shadow:0 3px 3px rgba(0,0,0,0.4);
+	color:#fff;
+}
+
+p.hero-subtitle {
+	max-width:600px;
+	margin:25px auto;
+	padding:10px 15px;
+	color:#fff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color:white;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+	color:orange;
+}
+
